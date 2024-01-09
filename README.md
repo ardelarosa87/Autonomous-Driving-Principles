@@ -23,7 +23,7 @@ If you're interested in accessing the original, unprocessed version of the datas
 ### 1-Unsupervised Methods
 ![Alt text](Doc_Images//UNSUPERVISED_DOC_IMAGES/output_9.png)
 
-### 2-PointPainting
+### 2-Data-Fusion-PointPainting
 ![Alt text](Doc_Images/PointPainting_Overview.png)
 
 ### 3-PointNet
