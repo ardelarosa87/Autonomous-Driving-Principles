@@ -6,6 +6,8 @@ In this repository, I provide a comprehensive tutorial on the essentials of 3D o
 
 ### References
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
+
 [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)
+
 [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
 
