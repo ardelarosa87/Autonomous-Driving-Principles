@@ -5,6 +5,10 @@ In this repository, I provide a comprehensive tutorial on the essentials of 3D o
 
 ## UPDATES
 
+#### UPDATE 01/09/2024
+
+Unsupervised Section has been completed. Check it out!
+
 #### UPDATE 01/08/2024
 
 I am currently working with the raw Kitty dataset, which has been uploaded to this repository. I have converted the dataset's point cloud data from `.bin` format to `.pcd` to ensure compatibility with Open3D. This data is located in the `DATA` folder of the repository. 
@@ -15,6 +19,9 @@ If you're interested in accessing the original, unprocessed version of the datas
 
 
 ## Overview
+
+### Unsupervised Methods
+![Alt text](Doc_Images//UNSUPERVISED_DOC_IMAGES/output_9.png)
 
 ### PointNet
 ![Alt text](Doc_Images/PointNet_Arch.png)
