@@ -20,23 +20,25 @@ If you're interested in accessing the original, unprocessed version of the datas
 
 ## Overview
 
-### Unsupervised Methods
+### 1-Unsupervised Methods
 ![Alt text](Doc_Images//UNSUPERVISED_DOC_IMAGES/output_9.png)
 
-### PointNet
+### 2-PointPainting
+![Alt text](Doc_Images/PointPainting_Overview.png)
+
+### 3-PointNet
 ![Alt text](Doc_Images/PointNet_Arch.png)
 
-### PointNet++ 
+### 4-PointNet++ 
 ![Alt text](Doc_Images/PointNetPP_Arch.png)
 
-### PointPainting
-![Alt text](Doc_Images/PointPainting_Overview.png)
 
 
 ## References
+[PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
+
 [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 
 [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)
 
-[PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150)
 
