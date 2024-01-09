@@ -6,7 +6,7 @@ In this repository, I provide a comprehensive tutorial on the essentials of 3D o
 ### UPDATE 01/08/2024
 We will be working with the raw kitty dataset it has been uploaded to the repo. The point cloud data was re-process from `.bin` to `.pcd` to work with Open3D. The data is in the DATA folder of this repo. However, you can also download the unprocessed version by visting the link below. More work soon to come...
 
-[Data Category: Residential, 2011_09_26_drive_0020 (0.4 GB)] (https://www.cvlibs.net/datasets/kitti/raw_data.php?type=residential)
+[Data Category: Residential, 2011_09_26_drive_0020] (https://www.cvlibs.net/datasets/kitti/raw_data.php?type=residential)
 
 ## Overview
 
