@@ -5,6 +5,9 @@ In this repository, I provide a comprehensive tutorial on the essentials of 3D o
 
 ## UPDATES
 
+### UPDATE 01/09/2024
+Data Fusion Part I lidar to image projection completed. Check it out! 
+
 #### UPDATE 01/09/2024
 
 Unsupervised Section has been completed. Check it out!
