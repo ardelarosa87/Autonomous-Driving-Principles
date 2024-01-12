@@ -16,7 +16,6 @@ Where:
 - \(R_0\) is the 3x3 Stereo Rectification Matrix.
 - \([R | t]\) is a 3x4 matrix combining rotation and translation from the LiDAR to the camera coordinate frame.
 - \(X\) is an Nx3 matrix of 3D points from the LiDAR sensor.
-
 Using this projection formula we can now go between pixels in 2D from an images to lidar points in 3D. Below shows the results of projecting lidar points unto the images after applying RANSAC. 
 
 <img src="lidar_projection.gif" alt="Lidar-Camera-Projection" />
