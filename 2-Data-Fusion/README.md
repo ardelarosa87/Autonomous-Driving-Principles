@@ -12,7 +12,7 @@ In this second section, we apply a similar concept to that in [PointPainting: Se
 
 
 ### Point Painting Approach
-![Alt text](Doc_Images/PointPainting_Overview.png)
+![Alt text](../Doc_Images/PointPainting_Overview.png)
 
 
 ### My Implementation Results
