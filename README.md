@@ -4,6 +4,10 @@
 In this repository, I provide a comprehensive tutorial on the essentials of 3D object detection, a critical component in the realms of autonomous driving and robotics. The tutorial begins with an introduction to an unsupervised learning method to establish the foundational concepts. Following this, I will explore two key supervised deep learning models: PointNet and PointNet++. I will demonstrate how to develop and train these models using PyTorch, focusing on classification tasks within 3D point cloud data. This is particularly pertinent for applications in autonomous vehicles and robotics. The tutorial will also include a segment on advanced data fusion techniques. Here, I will show how to merge LiDAR data with imagery, using calibration methods on the KITTI dataset. This will be complemented with practical examples, illustrating a technique similar to PointPainting for using a semantic image map to decorate a point cloud, providing valuable insights for those interested in autonomous driving and robotics.
 
 ## UPDATES
+
+### UPDATE 02/24/2024
+I have added a bonus section for Data Fusion showing how to decorate the lidar with color labels and made some corrections to some of the documentation on the Part 1 and Part II of the data fusion jupyter notebooks. I have already strated working on PointNet and have created the model from scratch, I am currently working on the data processing and best way for everyone to be able to use this data. 
+
 ### UPDATE 01/13/2024
 Data Fusion Part II PointPainting section has been completed, still needs some minor documentation it is mostly complete. Check it out!
 
