@@ -26,6 +26,9 @@ Using this projection formula we can now go between pixels in 2D from an images 
 In this second section, we apply a similar concept to that in [PointPainting: Sequential Fusion for 3D Object Detection](https://arxiv.org/abs/1911.10150). Like the paper, I pass an image through a segmentation algorithm. Here, `maskrcnn_resnet50_fpn_v2` from PyTorch trained on the COCO dataset is used to obtain our segmentation mask and labels. These outputs are then utilized to decorate the point cloud, assigning a class to each point within the camera's frustum. All technical aspects of this section are complete, with documentation for the Jupyter notebook and helper Python functions and classes underway. Meanwhile, check out the results below for a glimpse of what to expect. Note: We focus solely on the data fusion aspect and not on the 3D object detection head using PointPillars, which might be a topic for future exploration.
 
 
+# Part III: Data Fusion Bonous
+In the previous part we were able to use PointPainting to decorate a lidar point of the format NxL where N is the number of points and L is the lidar features. Using PointPainting we were able to convert this to an Nx(L + C) but we can do much more with this. In this bonus section we will simply add color to our lidar point decoration. Hence we will now have a lidar with Nx(L + C + R + G + B).
+
 
 ### Point Painting Approach
 ![Alt text](../Doc_Images/PointPainting_Overview.png)
@@ -38,4 +41,7 @@ In this second section, we apply a similar concept to that in [PointPainting: Se
 
 #### Comprehensive 3D Point Cloud Enhancement Using Semantic Mapping
 ![Alt text](../Doc_Images/DATAFUSION_DOC_IMAGES/part_II_overall_stack.png)
+
+#### Using Data fusion to decorate lidar with color features
+[Alt text](../Doc_Images/DATAFUSION_DOC_IMAGES/part_III_color_labels.png)
 
