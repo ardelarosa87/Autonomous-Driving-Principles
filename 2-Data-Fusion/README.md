@@ -43,5 +43,6 @@ In the previous part we were able to use PointPainting to decorate a lidar point
 ![Alt text](../Doc_Images/DATAFUSION_DOC_IMAGES/part_II_overall_stack.png)
 
 #### Using Data fusion to decorate lidar with color features
-[Alt text](../Doc_Images/DATAFUSION_DOC_IMAGES/part_III_color_labels.png)
+<img src="../Doc_Images/DATAFUSION_DOC_IMAGES/part_III_color_labels.png" alt="Color Labels" />
+
 
